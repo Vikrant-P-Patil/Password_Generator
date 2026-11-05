@@ -21,8 +21,8 @@ A simple, secure, and customizable password generator written in Python. It uses
 
 Contributions are welcome!
 
-1.Fork the repository
-2.Create a feature branch (git checkout -b feature/my-feature)
-3.Commit your changes (git commit -m "Add my feature")
-4.Push to the branch (git push origin feature/my-feature)
+1.Fork the repository\n
+2.Create a feature branch (git checkout -b feature/my-feature)\n
+3.Commit your changes (git commit -m "Add my feature")\n
+4.Push to the branch (git push origin feature/my-feature)\n
 5.Open a Pull Request
